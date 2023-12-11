@@ -1,0 +1,273 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+nav{
+    font-weight: bold;
+    border-bottom: 1px solid skyblue;
+    background-color: aliceblue;
+}
+.nav-link{
+    background-color: lightgray;
+    text-align: center;
+    margin: 10px;
+}
+.navbar-brand img{
+    width: 200px;
+    height: 80px;
+}
+#info{
+    border: none;
+    margin-top: 15px;
+}
+.naav2{
+    border: 2px solid skyblue;
+}
+h1{
+    font-size: 4vw;
+}
+.part2 h1{
+    font-size: 4vw;
+}
+#card{
+    width: 250px;
+    height: 300px;
+}
+.part1{
+    position: relative;
+}
+.part1 h1{
+    font-size: 6vw;
+    position: absolute;
+    top: 20%;
+    right: 3%;
+}
+.part3 img{
+    height: 150px;
+}
+.blue h1{
+    color: rgb(9, 66, 88);
+}
+.part2{
+    position: relative;
+}
+.part2 h1{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    font-size: 6vw;
+}
+.card:hover{
+    border: 2px solid skyblue;
+}
+.part4 button{
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    color: white ;
+    background-color: rgb(9, 66, 88);
+    
+}
+.part4 button:hover{
+    border: 2px solid skyblue;
+}
+.part6 .bit{
+    width: 250px;
+    height: 150px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgba(255, 228, 196, 0.706);
+}
+.part6 .bit:hover{
+    background-color: rgba(255, 182, 193, 0.644);
+}
+.bitt:hover{
+    border: 2px solid  rgba(255, 182, 193, 0.644) ;
+    border-radius: 15px;
+}
+.part7 button{
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    color: white ;
+    background-color: rgb(9, 66, 88);
+}
+.part7 button:hover{
+    border: 2px solid skyblue;
+}
+.corsl-cust figure{
+    padding: 5px; 
+}
+.corsl-cust figure:hover{
+    border-radius: 8px;
+    border: 2px solid skyblue;
+}
+#owl-demo .item{
+    margin: 10px;
+    color: #FFF;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+}
+.card1{
+   height: ;
+}
+.part8 button{
+    width: 80px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    background-color: green;
+}
+.part9 img{
+    width: 30%;
+    height: 25%;
+}
+.div-dsng{
+    border: 1px solid rgba(128, 128, 128, 0.618);
+    border-radius: 8px;
+}
+.div-dsng:hover{
+    border: 2px solid  rgba(255, 182, 193, 0.644) ;
+}
+.div-dsng h6{
+    font-weight: 600;
+    font-size: 1.25vw;
+}
+.hd{
+    position: relative;
+}
+.hd h1{
+    font-size: 6vw;
+    font-weight:800;
+    color: rgb(36, 90, 36);
+    position: absolute;
+    top: 28%;
+    left: 36%;
+}
+.srch input{
+    width: 350px;
+    height: 42px;
+    border: 2px solid rgb(22, 85, 110);
+    border-radius: 15px;
+    stroke: none;
+    padding: 15px;
+    box-shadow: 2px 3px 20px  rgb(44, 136, 172) ;
+}
+.srch button{
+    border: 2px solid rgb(22, 85, 110);
+    border-radius: 100px;
+    padding: 8px;
+    margin: 10px;
+    background-color: transparent;
+    box-shadow: 2px 3px 20px  rgb(44, 136, 172) ;
+}
+#myNav a:hover{
+    font-weight: 300;
+    border: 2px solid  rgb(22, 85, 110);
+    border-radius: 30px;
+}
+
+
+.card-img-top{
+    width: 50%;
+    height: 50%;
+}
+.part8 .card{
+    width: 200px;
+    height: 290px;
+}
+#but-know{
+    width: 150px;
+    height: 44px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    color: white ;
+    background-color: rgb(9, 66, 88);
+}
+#main-but{
+    width: 200px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+    color: white ;
+    background-color: rgb(253, 43, 43);
+    margin: 30px;
+}
+.part10 button{
+width: 80px;
+    height: 40px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    background-color: green;
+}
+.part10 img{
+    width: 50%;
+    height: 180px;
+}
+.part11{
+    background-color:rgba(250, 235, 215, 0.729);
+    
+}
+.part11 h5{
+    font-weight: 500;
+    word-spacing: 2px;
+}
+#dig{
+    width: 300px;
+    height: 200px;
+    background-color: pink;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.modal img{
+    width: 30%;
+    height: 30%;
+}
+.modal form input{
+    margin-bottom: 10px;
+    border: 1px solid  rgb(9, 66, 88);
+}
+#sub{
+    background-color:  rgb(9, 66, 88);
+    color: white;
+}
+footer img{
+    width: 200px;
+    height: 80px;
+}
+footer{
+    background-color: #ddddda;
+}
+footer button{
+    width: 150px;
+    height: 50px;
+    background-color:  rgb(9, 66, 88);
+    color: white;
+    border-radius: 20px;
+    border: none;
+}
+footer p{
+    font-weight: 300;
+}
+.part12{
+    background-color: #454544;
+    color: white;
+    font-weight: 300;
+}
+.dng img{
+    height: 600px;
+}
+.sm-div{
+    width: 300px;
+    height: 280px;
+    box-shadow: 2px 3px 10px skyblue;
+    border-radius: 30px;
+}
